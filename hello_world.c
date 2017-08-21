@@ -1,4 +1,4 @@
-//hallo world program of awsome!!!!!
+//hello world program of awsome!!!!!
 #include <stdio.h>
 
 int main(int argc, char** argv)
@@ -9,7 +9,7 @@ int main(int argc, char** argv)
 	}
 	else
 	{
-		printf("hallo world\n");
+		printf("hello world\n"); //changed this line!
 	}
 return 0;
 }
